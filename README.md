@@ -8,8 +8,8 @@
 
 ## Pode me chamar de Vini e seja bem vindo ao meu perfil GitHub 👋 ##
 
-* Tenho 17 anos;
-* Terminando o Ensino Médio no Colégio Módulo;
+* Tenho 18 anos;
+* Cursando Engenharia de Software na FIAP;
 * São Paulo/SP.
 
 ## Estudando ##
