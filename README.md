@@ -12,12 +12,9 @@
 * Cursando Engenharia de Software na FIAP;
 * São Paulo/SP.
 
-## Estudando ##
+## Tecnologias ##
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,java,cpp,cs,py)](https://skillicons.dev)
 
-<div>
-  <a href="https://github.com/ViniciusLugli">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLugli&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLugli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+##
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
