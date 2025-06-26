@@ -14,7 +14,7 @@
 
 ## Tecnologias ##
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,react,java,cpp,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,nodejs,react,java,cpp,py)](https://skillicons.dev)
 
 ##
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
