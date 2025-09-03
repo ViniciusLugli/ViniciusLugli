@@ -1,20 +1,36 @@
-# Olá, me chamo Vinícius! #
-
-<div>
-  <a href="https://www.instagram.com/vinicius_lugli/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "viniciusflugli@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vinícius-lugli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <h1 align="center">Oi, eu sou o Vinícius 👋</h1>
+  <p align="center">Desenvolvedor de Software | FIAP | São Paulo, Brasil</p>
 </div>
 
-## Pode me chamar de Vini e seja bem vindo ao meu perfil GitHub 👋 ##
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinícius-lugli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o LinkedIn do Vinícius" />
+  </a>
+  <a href="https://www.instagram.com/vinicius_lugli/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link para o Instagram do Vinícius" />
+  </a>
+  <a href="mailto:viniciusflugli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link de email para o Vinícius" />
+  </a>
+</div>
 
-* Tenho 18 anos;
-* Cursando Engenharia de Software na FIAP;
-* São Paulo/SP.
+---
 
-## Tecnologias ##
+### Sobre mim
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,java,py,go)](https://skillicons.dev)
+Eu sou um programador apaixonado por **código e música**, com 18 anos e atualmente cursando Engenharia de Software na FIAP. Meu objetivo é me tornar um desenvolvedor **habilidoso e competente**, focado em criar soluções eficientes e com design moderno. Quando não estou programando, estou tocando minha guitarra ou explorando novos mundos em videogames.
 
-##
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+---
+
+### Tecnologias e Ferramentas
+
+Tenho experiência com as seguintes tecnologias e estou sempre buscando aprender mais:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,react,java,py,go" alt="Ícones de tecnologias como Git, HTML, CSS, React, Java, Python e Go." />
+</div>
+
+---
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg) 
