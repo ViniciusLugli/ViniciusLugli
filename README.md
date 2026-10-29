@@ -19,7 +19,7 @@
 
 ### Sobre mim
 
-Eu sou um programador apaixonado por **código e música**, com 18 anos e atualmente cursando Engenharia de Software na FIAP. Meu objetivo é me tornar um desenvolvedor **habilidoso e competente**, focado em criar soluções eficientes e com design moderno. Quando não estou programando, estou tocando minha guitarra ou explorando novos mundos em videogames.
+Eu sou um programador apaixonado por **código e música**, com 19 anos e atualmente cursando Engenharia de Software na FIAP. Meu objetivo é me tornar um desenvolvedor **habilidoso e competente**, focado em criar soluções eficientes e com design moderno. Quando não estou programando, estou tocando minha guitarra ou explorando novos mundos em videogames.
 
 ---
 
